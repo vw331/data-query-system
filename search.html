@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>聚合数据</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/common.css" rel="stylesheet" type="text/css">
+<link href="css/search.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-dialog.min.css" rel="stylesheet" type="text/css">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class=""  style="overflow-x:hidden">
+<!--<div class="particles-bg" id="particles"></div>-->
+<!--header-->
+<div class="navbar navbar-style navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#"><img alt="Brand" src="images/logo.png"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" class="user separator"><span class="glyphicon icon-user" aria-hidden="true"></span> 张三丰</a></li>
+        <li><a href="#">退出</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!--main-->
+<div class="container">
+	<div class="main">
+    	<div class="banner" id="particles">
+            <h1 class="title"><img src="images/title.png" alt="大数据检索平台"></h1>
+            <div class="form-warp">
+                <form class="form-box" id="search-form" action="search.php" method="post">
+                    <div class="list-range" id="search-type">
+                        <a class="range active" href="javascript:;"><label><input name="range" type="radio" checked="checked" value="all">全部</label></a>
+                        <a class="range" href="javascript:;"><label><input name="range" type="radio" value="zhanzhu">暂住人口</label></a>
+                        <a class="range" href="javascript:;"><label><input name="range" type="radio" value="changzhu">常住人口</label></a>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group input-group-lg search-input-group">
+                             <input name="key" type="text" id="search-bar" class="form-control input-text" placeholder="请输入姓名、身份证或手机号等关键词信息查找" autocomplete="off" autofocus>
+                             <span class="input-group-btn search-btn-warp">
+                                <button class="btn btn-default search-btn" id="search-btn" type="submit" onclick="event.stopPropagation()">搜索</button>
+                             </span>
+                        </div>
+                    </div>
+                </form>
+                <div class="toggle-type">
+                    <a href="javascript:;">高级<br/>查询</a>
+                </div>
+            </div>
+		</div>
+    </div>
+</div>
+<div class="ad-warp">
+ 	<div class="container">	
+        <div class="row">
+          <div class="col-xs-6 col-md-3">
+            <dl class="ad-info clearfix">
+            	<dt><img src="images/icon_person.png" width="72" height="72"></dt>
+                <dd><h4>人口查询</h4>
+                	<span>提供快捷、简便、精准的人员查询与检索</span>
+                </dd>
+            </dl>
+          </div>
+          <div class="col-xs-6 col-md-3">
+            <dl class="ad-info clearfix">
+            	<dt><img src="images/icon_info.png" width="72" height="72"></dt>
+                <dd><h4>信息展示</h4>
+                	<span>提供快捷、简便、精准的人员查询与检索</span>
+                </dd>
+            </dl>
+          </div>
+          <div class="col-xs-6 col-md-3">
+            <dl class="ad-info clearfix">
+            	<dt><img src="images/icon_data.png" width="72" height="72"></dt>
+                <dd><h4>动态数据</h4>
+                	<span>更好用、更简洁的动态数据加载</span>
+                </dd>
+            </dl>
+          </div>
+          <div class="col-xs-6 col-md-3">
+            <dl class="ad-info clearfix">
+            	<dt><img src="images/icon_charts.png" width="72" height="72"></dt>
+                <dd><h4>数据可视化</h4>
+                	<span>一张图看懂个人大数据信息</span>
+                </dd>
+            </dl>
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+	<div class="tab-horizontal">      <!-- Nav tabs -->
+      <ul class="nav nav-tabs" role="tablist">
+        <li class="active"><a href="#sarch-history"  role="tab" data-toggle="tab">历史查询</a></li>
+        <li><a href="#search-topical" data-toggle="tab">热门查询</a></li>
+        <li><a href="#sarch-focus"  data-toggle="tab">关注人员</a></li>
+      </ul>
+    
+      <!-- Tab panes -->
+      <div class="tab-content" style="min-height:210px">
+        <div class="tab-pane active" id="sarch-history">
+        	<table class="table table-personlist">
+ 				<tr>
+                	<td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                </tr>
+                <tr>
+                	<td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                </tr>
+                <tr>
+                	<td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                </tr>
+                <tr>
+                	<td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                </tr>
+                <tr>
+                	<td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                    <td><a href="javascript:;">王梁</a></td>
+                </tr>
+			</table>
+        </div>
+        <div class="tab-pane" id="search-topical">第二页</div>
+        <div class="tab-pane" id="sarch-focus">第三页</div>
+      </div>
+    </div>
+</div>
+
+<!--footer-->
+<div class="footer">
+	<div class="container">
+    	<p class="about-us">研发单位：杭州创盾科技有限公司&nbsp;联系电话：0571-56077609</p>
+    </div>
+</div>
+
+<script src="js/lib/require.min.js" data-main="js/search"></script>
+</body>
+</html>

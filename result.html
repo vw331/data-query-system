@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>聚合数据</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/dropdowns-enhancement.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-table.css" rel="stylesheet" type="text/css">
+<link href="css/datepicker3.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-dialog.min.css" rel="stylesheet" type="text/css">
+<link href="css/common.css" rel="stylesheet" type="text/css">
+<link href="css/page.css" rel="stylesheet" type="text/css">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body class="bd-bg2" >
+<!--header-->
+<div class="navbar navbar-style navbar-static-top navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand logo" href="#"><img alt="Brand" src="images/logo.png" width="178" height="26"></a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <form class="navbar-form navbar-left top-form-search" role="search">
+        <div class="input-group">
+          <div class="input-group-btn drop-wrap">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" data-label-placement>全部 <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+              <li><input type="radio" id="all" name="type" value="0"><label for="all">全部 </label></li>
+              <li><input type="radio" id="zhanzhu" name="type" value="1"><label for="zhanzhu">暂住人口</label></li>
+              <li><input type="radio" id="changzhu" name="type" value="2"><label for="changzhu">常住人口</label></li>
+            </ul>
+          </div><!-- /btn-group -->
+            <input type="text" class="form-control">
+        	<span class="input-group-btn">
+            <button class="btn btn-search" type="button">Go!</button>
+          </span>
+        </div><!-- /input-group -->
+      </form>	
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" class="user separator"><span class="glyphicon icon-user"></span> 张三丰</a></li>
+        <li><a href="#">退出</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="main-wrap" style="min-height:720px">
+  	<!--module screen-->
+    <div class="container-fluid screen">
+    
+       <div class="row range-row">
+            <div class="col-md-2"><div class="search-range-title text-right"><span>数据来源：</span></div></div>
+            <div class="col-md-10">
+                <div class="range-list-box" data-collapsible>
+                    <ul class="range range-pills clearfix" data-pills>
+                        <?php
+                            echo 
+                        ?>
+                      
+                    </ul>
+                </div>
+            </div>
+       </div>
+       
+       <div class="row range-row">
+            <div class="col-md-2"><div class="search-range-title text-right"><span>数据结构：</span></div></div>
+            <div class="col-md-10">
+                <div class="range-list-box" data-collapsible>
+                    <ul class="range range-pills clearfix" data-pills>
+                      <li class="pill"><a class="btn-pill active" type="all" href="javascript:void(0)">显示全部</a></li>
+                      <li class="pill"><a class="btn-pill" type="type1" href="javascript:void(0)">类型一</a></li>
+                      <li class="pill"><a class="btn-pill" type="type2" href="javascript:void(0)">类型二</a></li>
+                      <li class="pill"><a class="btn-pill" type="type3" href="javascript:void(0)">类型三</a></li>
+                      <li class="pill"><a class="btn-pill" type="type4" href="javascript:void(0)">类型四</a></li>
+                      <li class="pill"><a class="btn-pill" type="type5" href="javascript:void(0)">类型五</a></li>
+                      <li class="pill"><a class="btn-pill" type="type6" href="javascript:void(0)">类型六</a></li>
+                      <li class="pill"><a class="btn-pill" type="type7" href="javascript:void(0)">类型七</a></li>
+                      <li class="pill"><a class="btn-pill" type="type8" href="javascript:void(0)">类型八</a></li>	
+                    </ul>
+                </div>
+            </div>
+       </div>
+       
+        <div class="row range-row">
+            <div class="col-md-2"><div class="search-range-title text-right"><span>筛选：</span></div></div>
+            <div class="col-md-10">
+                <div class="range-list-box">
+                    <ul class="range range-pills clearfix">
+                      <li class="pill">
+                         <div class="dropdown btn-group">
+                            <button data-toggle="dropdown" class="btn btn-nothing dropdown-toggle">性别：<span data-label-placement=""></span> <span class="caret"></span></button>
+                            <ul class="dropdown-menu">
+                              <li>
+                                <input type="radio" id="choice_mane" name="sex" value="1">
+                                <label for="choice_mane">男</label>
+                              </li>
+                              <li>
+                                <input type="radio" id="choice_woman" name="sex" value="2">
+                                <label for="choice_woman">女</label>
+                              </li>
+                            </ul>
+                          </div>
+                      </li>
+                      <li class="pill">
+                         <div class="dropdown btn-group">
+                            <button data-toggle="dropdown" class="btn btn-nothing dropdown-toggle">婚姻：<span data-label-placement=""></span> <span class="caret"></span></button>
+                            <ul class="dropdown-menu">
+                              <li>
+                                <input type="radio" id="choice_unmarried" name="marriage" value="1">
+                                <label for="choice_unmarried">未婚</label>
+                              </li>
+                              <li>
+                                <input type="radio" id="choice_married" name="marriage" value="2">
+                                <label for="choice_married">已婚</label>
+                              </li>
+                            </ul>
+                          </div>
+                      </li>
+                      <li class="pill">
+                        <div class="input-group input-group-sm input-group-inline">
+                        	<label for="age">年龄：</label>
+                        	<input type="text" class="form-control text-sm" id="age"> 至 <input type="text" class="form-control  text-sm">
+                        </div>
+                      </li>
+                      <li class="pill">
+                      	<div class="input-group input-group-sm input-group-inline input-daterange" data-daterange>
+                        	<label for="date">日期：</label>
+                            <input type="text" class="form-control text-md" id="date" data-datepicker> 至 <input type="text" class="form-control text-md">
+                        </div>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+       </div>
+       
+     </div> 
+    <!--module screen end-->
+    
+     <!--module data-->
+     <div class="data-warp container-fluid">
+     	<div class="row">
+        	<div class="col-md-12">
+            	<p class="search-result">查询到<span class="">162</span>条结果，共6页：</p>
+            </div>
+        </div>
+        <div class="row">
+                <div class="data-grid-warp">
+                    
+                    <table id="table">
+
+                    </table>
+                    
+               </div>
+        </div>
+     </div>
+     <!--end module data-->
+  </div>
+</div>
+
+<!--footer-->
+<div class="footer">
+	<div class="container">
+    	<p class="about-us">研发单位：杭州创盾科技有限公司&nbsp;联系电话：0571-56077609</p>
+    </div>
+</div>
+
+<script src="js/lib/require.min.js" data-main="js/result"></script>
+<!--
+<script src="js/lib/jquery-1.11.3.min.js"></script>
+<script src="js/lib/bootstrap.min.js"></script>
+<script src="js/lib/bootstrap-dialog.min.js"></script>
+<script>
+	BootstrapDialog.alert('I want banana!');
+</script>-->
+</body>
+</html>

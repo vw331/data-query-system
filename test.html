@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/common.css" rel="stylesheet" type="text/css">
+<link href="css/dropdowns-enhancement.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-table.css" rel="stylesheet" type="text/css">
+<link href="css/datepicker3.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-dialog.min.css" rel="stylesheet" type="text/css">
+</head>
+
+<style type="text/css">
+	.hideheader{}
+	.hideheader .modal-header{display:none}
+</style>
+
+<!---->
+<script src="js/lib/require.min.js" data-main="js/test"></script>
+<!--
+<script src="js/lib/jquery-1.11.3.min.js"></script>
+<script src="js/lib/bootstrap.min.js"></script>
+<script src="js/lib/bootstrap-dialog.min.js"></script>
+<script>
+	window.onload = function(){
+		BootstrapDialog.alert('I want banana!')
+	}
+	
+</script>-->
+<body>
+
+<div id="warp" class="container">
+	<table id="table"></table>
+</div>
+
+
+<div class="container">
+	<input type="button" class="btn btn-primary" value="getOptions" id="btn1">
+<!--<input type="button" class="btn btn-default" value="释放" id="btn2">-->
+    <form action="search.php" name="form" method="post" id="search-form">
+        <p>
+        <label>所有类别:</label><input type="radio" name="range" value="all">
+        <label>常驻人口:</label><input type="radio" name="range" value="changzhu">
+        <label>暂住人口:</label><input type="radio" name="range" value="zanzhu"></p></br>
+        <input type="text" name="key"><br/><br/>
+        <input type="submit" name="submit" value="提交">
+    </form>
+</div>
+
+
+</body>
+</html>

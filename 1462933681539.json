@@ -1,0 +1,245 @@
+{
+    "nodes": [
+        {
+            "category": 0,
+            "name": "乔布斯",
+            "value": 1000,
+            "label": "乔布斯\n（主要）",
+            "symbolSize" : 40 ,
+            "itemStyle" : {
+                "normal" : {
+                    "color" : "#48a2fd",
+                    "label" : {
+                        "textStyle" : {
+                            "color" : "#ffffff",
+                            "fontSize" : 16,
+                            "fontFamily" : "微软雅黑"
+                        }
+                    }
+
+                },
+                "emphasis" : {
+                   "color" : "#3881c9"
+                }
+            }
+        },
+        {
+            "category": 2,
+            "name": "民航订票",
+            "value": 3,
+            "symbolSize" : 15,
+            "itemStyle" : {
+                "normal" : {
+                    "color" : "#6ce9a1",
+                    "label" : {
+                        "textStyle" : {
+                            "color" : "#ffffff",
+                            "fontSize" : 14,
+                            "fontFamily" : "微软雅黑"
+                        }
+                    }
+
+                },
+                "emphasis" : {
+                   "color" : "#53b57c"
+                }
+            }
+        },
+        {
+            "category": 3,
+            "name": "民航离港",
+            "value": 3,
+            "symbolSize" : 30
+        },
+        {
+            "category": 4,
+            "name": "机动车辆",
+            "value": 7,
+            "symbolSize" : 30
+        },
+        {
+            "category": 5,
+            "name": "出入境",
+            "value": 5,
+            "symbolSize" : 30
+        },
+        {
+            "category": 6,
+            "name": "机票预定",
+            "value": 8,
+            "symbolSize" : 30
+        },
+        {
+            "category": 7,
+            "name": "国内住宿",
+            "value": 9,
+            "symbolSize" : 30
+        },
+        {
+            "category": 6,
+            "name": "杭州",
+            "value": 10,
+            "label" : "杭州-上海",
+            "symbolSize" : 10,
+            "itemStyle" : {
+                "normal" : {
+                    "color" : "#4cd1e1",
+                    "label" : {
+                        "position": "bottom",
+                        "textStyle" : {
+                            "color" : "#333333",
+                            "fontSize" : 12,
+                            "fontFamily" : "微软雅黑"
+                        }
+                    }
+
+                },
+                "emphasis" : {
+                   "color" : "#3ba2ad"
+                }
+            }
+        },
+        {
+            "category": 6,
+            "name": "上海",
+            "value": 1,
+            "label" : "上海-杭州",
+            "symbolSize" : 10,
+            "itemStyle" : {
+                "normal" : {
+                    "color" : "#4cd1e1",
+                    "label" : {
+                        "position": "bottom",
+                        "textStyle" : {
+                            "color" : "#333333",
+                            "fontSize" : 12,
+                            "fontFamily" : "微软雅黑"
+                        }
+                    }
+
+                },
+                "emphasis" : {
+                   "color" : "#3ba2ad"
+                }
+            }
+        },
+        {
+            "category": 4,
+            "name": "浙AA5E51",
+            "label":"浙A603CY",
+            "value": 10,
+            "symbolSize" : 10,
+            "itemStyle" : {
+                "normal" : {
+                    "color" : "#4cd1e1",
+                    "label" : {
+                        "position": "bottom",
+                        "textStyle" : {
+                            "color" : "#333333",
+                            "fontSize" : 12,
+                            "fontFamily" : "微软雅黑"
+                        }
+                    }
+
+                },
+                "emphasis" : {
+                   "color" : "#3ba2ad"
+                }
+            }
+        },
+        {
+            "category": 4,
+            "name": "浙A603CY",
+            "label":"浙A603CY",
+            "value": 10,
+            "symbolSize" : 10,
+            "itemStyle" : {
+                "normal" : {
+                    "color" : "#4cd1e1",
+                    "label" : {
+                        "position": null,
+                        "textStyle" : {
+                            "color" : "#333333",
+                            "fontSize" : 12,
+                            "baseline" : "top",
+                            "fontFamily" : "微软雅黑" 
+                        }
+                    }
+
+                },
+                "emphasis" : {
+                   "color" : "#3ba2ad"
+                }
+            }
+        }
+    ],
+    "links": [
+        {
+            "target": "同户人员",
+            "source": "乔布斯",
+            "weight": 1,
+            "name": "女儿",
+            "itemStyle" : {
+                "normal" : {
+                    "type" : "curve",
+                    "color" : "#6ce9a1"
+                }
+            }
+                                
+        },
+        {
+            "source": "民航订票",
+            "target": "乔布斯",
+            "weight": 2,
+            "name": "父亲"
+        },
+        {
+            "source": "民航离港",
+            "target": "乔布斯",
+            "weight": 1,
+            "name": "母亲"
+        },
+        {
+            "source": "机动车辆",
+            "target": "乔布斯",
+            "weight": 2
+        },
+        {
+            "source": "出入境",
+            "target": "乔布斯",
+            "weight": 3,
+            "name": "合伙人"
+        },
+        {
+            "source": "机票预定",
+            "target": "乔布斯",
+            "weight": 1
+        },
+        {
+            "source": "国内住宿",
+            "target": "乔布斯",
+            "weight": 6,
+            "name": "竞争对手"
+        },
+        {
+            "source": "上海",
+            "target": "机票预定",
+            "weight": 10
+        },
+        {
+            "source": "杭州",
+            "target": "机票预定",
+            "weight": 10
+        },
+        {
+            "source": "机动车辆",
+            "target": "浙A603CY",
+            "weight": 10
+        },
+        {
+            "source": "机动车辆",
+            "target": "浙AA5E51",
+            "weight": 20
+        }
+    ]
+}

@@ -1,0 +1,3426 @@
+{
+"nodes": [
+    {
+    "category": 1,
+    "itemStyle": {
+        "normal": {
+            "color": "#48a2fd",
+            "label": {
+                "textStyle": {
+                    "color": "#ffffff",
+                 "fontSize": 18
+                    }
+                }
+            },
+        "emphasis": {
+            "color": "#3881c9",
+            "borderWidth": 1,
+            "borderColor": "#3881c9",
+            "label": {
+                "textStyle": {
+                "color": "#ffffff",
+                "fontSize": 18
+                    }
+                }
+            }
+    },
+"name": "马克",
+"value": "#48a2fd",
+"symbolSize": 40
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#6ce9a1",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#53b57c",
+"borderWidth": 1,
+"borderColor": "#53b57c",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+}
+},
+"name": "国内旅客",
+"value": "#6ce9a1",
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#6ce9a1",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#53b57c",
+"borderWidth": 1,
+"borderColor": "#53b57c",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+}
+},
+"name": "民航订票",
+"value": "#6ce9a1",
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#6ce9a1",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#53b57c",
+"borderWidth": 1,
+"borderColor": "#53b57c",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+}
+},
+"name": "机动车辆",
+"value": "#6ce9a1",
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#6ce9a1",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#53b57c",
+"borderWidth": 1,
+"borderColor": "#53b57c",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+}
+},
+"name": "铁路旅客",
+"value": "#6ce9a1",
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#6ce9a1",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#53b57c",
+"borderWidth": 1,
+"borderColor": "#53b57c",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+}
+},
+"name": "民航离港",
+"value": "#6ce9a1",
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#6ce9a1",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#53b57c",
+"borderWidth": 1,
+"borderColor": "#53b57c",
+"label": {
+"textStyle": {
+"color": "#ffffff",
+"fontSize": 16
+}
+}
+}
+},
+"name": "房屋租赁",
+"value": "#6ce9a1",
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 3,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "创新大厦",
+"value": 11,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV271",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV273",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS440",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS441",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS442",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS443",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS444",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS445",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS445",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW540",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW541",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW542",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW543",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW544",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 5,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW545",
+"value": 12,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89011",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89012",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89013",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89014",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89015",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89016",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89017",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89018",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89019",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89020",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89021",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89067",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89076",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 8,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "浙A89763",
+"value": 14,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640020",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234561",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234562",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234563",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234564",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234565",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234566",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "12345678",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234568",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234569",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "1234560",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "12345611",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640020",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640020",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640020",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "123456",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640020",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "123456",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "123457",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640021",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "640351",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 4,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "357430",
+"value": 15,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV123",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "CV271",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS440",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS441",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS442",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS443",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS444",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS445",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS445",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS445",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS446",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "FS447",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW540",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW541",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW542",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW543",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW544",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 7,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "QW545",
+"value": 16,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111110",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111111",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111112",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111112",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111113",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111113",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111114",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111115",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111116",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111117",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111118",
+"value": 13,
+"symbolSize": 30
+},
+{
+"category": 9,
+"itemStyle": {
+"normal": {
+"color": "#4cd1e1",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+},
+"emphasis": {
+"color": "#3ba2ad",
+"borderWidth": 1,
+"borderColor": "#3ba2ad",
+"label": {
+"textStyle": {
+"color": "#333333",
+"fontSize": 16
+}
+}
+}
+},
+"name": "No111111111111111119",
+"value": 13,
+"symbolSize": 30
+}
+],
+"links": [
+{
+"weight": 1,
+"source": "国内旅客",
+"target": "马克"
+},
+{
+"weight": 1,
+"source": "房屋租赁子节点",
+"target": "民航离港"
+},
+{
+"weight": 1,
+"source": "民航离港子节点",
+"target": "机动车辆"
+},
+{
+"weight": 1,
+"source": "铁路旅客子节点",
+"target": null
+},
+{
+"weight": 1,
+"source": "机动车辆子节点",
+"target": "铁路旅客"
+},
+{
+"weight": 1,
+"source": "民航订票子节点",
+"target": "国内旅客"
+},
+{
+"weight": 1,
+"source": "国内旅客子节点",
+"target": null
+},
+{
+"weight": 1,
+"source": "民航订票",
+"target": "马克"
+},
+{
+"weight": 1,
+"source": "机动车辆",
+"target": "马克"
+},
+{
+"weight": 1,
+"source": "铁路旅客",
+"target": "马克"
+},
+{
+"weight": 1,
+"source": "民航离港",
+"target": "马克"
+},
+{
+"weight": 1,
+"source": "房屋租赁",
+"target": "马克"
+}
+]
+}

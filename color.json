@@ -1,0 +1,49 @@
+[
+{
+    "root" : {
+        "normal" : "#48a2fd",
+        "emphasis" : "#4091e3" 
+    }
+},
+{
+    "民航订票" : {
+        "normal" : "#6ce9a1",
+        "emphasis" : "#5fcf8d" 
+    }
+},
+{
+    "民航离港" : {
+        "normal" : "#d4e157",
+        "emphasis" : "#bbc74e" 
+    }
+},
+{
+    "机动车辆" : {
+        "normal" : "#4cd1e1",
+        "emphasis" : "#44bac7" 
+    }
+},
+{
+    "国内住宿" : {
+        "normal" : "#ff8a65",
+        "emphasis" : "#e57c5c" 
+    }
+},
+{
+    "房屋租赁" : {
+        "normal" : "#ffc400",
+        "emphasis" : "#e5b000" 
+    }
+},
+{
+    "铁路旅客" : {
+        "normal" : "#bc9fe6",
+        "emphasis" : "#a68dcc" 
+    }
+}
+
+
+]
+
+
+

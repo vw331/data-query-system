@@ -1,0 +1,72 @@
+[
+    {
+        name: '根节点',
+        value: 6,
+        children: [
+            {
+                name: '节点1',
+                value: 4,
+                children: [
+                    {
+                        name: '叶子节点1',
+                        value: 4
+                    },
+                    {
+                        name: '叶子节点2',
+                        value: 4
+                    },
+                    {
+                        name: '叶子节点3',
+                        value: 2
+                    },
+                     {
+                        name: '叶子节点4',
+                        value: 2
+                    },
+                    {
+                        name: '叶子节点5',
+                        value: 2
+                    },
+                    {
+                        name: '叶子节点6',
+                        value: 4
+                    }
+                ]
+            },
+            {
+                name: '节点2',
+                value: 4,
+                children: [{
+                    name: '叶子节点7',
+                    value: 4
+                },
+                {
+                    name: '叶子节点8',
+                    value: 4
+                }]
+            },
+            {
+                name: '节点3',
+                value: 1,
+                children: [
+                    {
+                        name: '叶子节点9',
+                        value: 4
+                    },
+                    {
+                        name: '叶子节点10',
+                        value: 4
+                    },
+                    {
+                        name: '叶子节点11',
+                        value: 2
+                    },
+                     {
+                        name: '叶子节点12',
+                        value: 2
+                    }
+                ]
+            }
+        ]
+    }
+]

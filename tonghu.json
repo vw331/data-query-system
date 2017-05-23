@@ -1,0 +1,350 @@
+
+[
+    {
+        "name": "马克",
+        "value": "123465",
+        "pid" : "1479848974",
+        "tel" : "15857131275",
+        "symbolSize" : 80,
+        "itemStyle" : {
+                "normal" : {
+                    "color" : "#4cd1e1",
+                    "label" : {
+                        "textStyle" : {
+                            "color" : "#333333",
+                            "fontSize" : 18,
+                            "fontFamily" :  "微软雅黑",
+                            "fontWeight" : "normal"
+                        }
+                    } 
+                },
+                "emphasis" : {
+                    "color" : "#3ba2ad",
+                    "borderWidth" : 2,
+                    "borderColor" : "#3ba2ad",
+                    "label" : {
+                        "textStyle" : {
+                            "color" : "#333333",
+                            "fontSize" : 18,
+                            "fontFamily" :  "微软雅黑",
+                            "fontWeight" : "normal"
+                        }
+                    } 
+                }
+            },
+        "children": [
+            {
+                "name": "王朝",
+                "value": "123465",
+                "pid" : "1479848974",
+                "tel" : "15857131275",
+                "symbolSize" : 30,
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            },
+            {
+                "name": "王朝",
+                "value": "4897354",
+                "symbolSize" : 30,
+                "pid" : "1479848974",
+                "itemStyle" : {
+                    "normal" : {
+                        "color" : "#b46bc5",
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    },
+                    "emphasis" : {
+                        "color" : "#854e91",
+                        "borderWidth" : 0,
+                        "label" : {
+                            "textStyle" : {
+                                "color" : "#333333",
+                                "fontSize" : 14,
+                                "fontFamily" :  "微软雅黑",
+                                "fontWeight" : "normal"
+                            }
+                        } 
+                    }
+                }
+            }
+        ]
+    }
+
+]

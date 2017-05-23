@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>聚合数据</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/dropdowns-enhancement.css" rel="stylesheet" type="text/css">
+<link href="css/common.css" rel="stylesheet" type="text/css">
+<link href="css/detail.css" rel="stylesheet" type="text/css">
+<link href="css/datepicker3.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-table.css" rel="stylesheet" type="text/css">
+<script>
+
+var config = {
+	"baseUrl" : "./data.php",
+	"changzhu": {
+		"name":"常驻人口",
+		"type":"changzhu",
+		"columns":[{
+				field: 'indate',
+				title: '入住时间'
+			}, {
+				field: 'outdate',
+				title: '离开时间'
+			}, {
+				field: 'room',
+				title: '详细'
+			},{
+				field: 'add',
+				title: '地址'
+			},{
+				field: 'peer',
+				title: '同住'
+			}]
+	},
+	"zanzhu": {
+		"name":"暂住人口",
+		"type":"zanzhu",
+		"columns":[{
+				field: 'indate',
+				title: '入住时间'
+			}, {
+				field: 'outdate',
+				title: '离开时间'
+			}, {
+				field: 'hotel',
+				title: '酒店'
+			},{
+				field: 'add',
+				title: '地址'
+			},{
+				field: 'peer',
+				title: '同行'
+			}]
+	},
+	"zhusu": {
+		"name":"国内住宿",
+		"type":"zhusu",
+		"columns":[{
+				field: 'indate',
+				title: '入住时间'
+			}, {
+				field: 'outdate',
+				title: '离开时间'
+			}, {
+				field: 'hotel',
+				title: '酒店'
+			},{
+				field: 'add',
+				title: '地址'
+			},{
+				field: 'peer',
+				title: '同行'
+			}]
+	},
+}
+
+</script>
+</head>
+
+<body class="bd-bg2" >
+<!--header-->
+<div class="navbar navbar-style navbar-static-top navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand logo" href="#"><img alt="Brand" src="images/logo.png" width="178" height="26"></a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <form class="navbar-form navbar-left top-form-search" role="search">
+        <div class="input-group">
+          <div class="input-group-btn drop-wrap">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" data-label-placement>全部 <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+              <li><input type="radio" id="all" name="type" value="0"><label for="all">全部 </label></li>
+              <li><input type="radio" id="zhanzhu" name="type" value="1"><label for="zhanzhu">暂住人口</label></li>
+              <li><input type="radio" id="changzhu" name="type" value="2"><label for="changzhu">常住人口</label></li>
+            </ul>
+          </div><!-- /btn-group -->
+            <input type="text" class="form-control">
+        	<span class="input-group-btn">
+            <button class="btn btn-search" type="button">Go!</button>
+          </span>
+        </div><!-- /input-group -->
+      </form>	
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" class="user separator"><span class="glyphicon icon-user"></span> 张三丰</a></li>
+        <li><a href="#">退出</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="main-wrap" style="min-height:720px">
+  
+     <div class="row">
+     
+       <div class="col-md-3">
+       
+          <div class="side">
+          	<!--base infor-->	
+          	 <div class="detail-base-infor">
+             	 <div class="detail-module">
+                    <div class="detail-head-pic-warp">
+                        <img src="images/head.png" width="100%" height="100%">
+                    </div>
+                    <div class="detail-item clearfix">
+                    	<p style="text-align:center">
+                    	<a href="javascript:void(0)" class="btn btn-sm btn-follow">标记</a>&nbsp;&nbsp;
+                        <a href="javascript:void(0)" class="btn btn-sm btn-handle">操作</a>
+                        </p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">姓名：</span>
+                        <p class="detail-item-text">王小二</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">姓别：</span>
+                        <p class="detail-item-text">男</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">出生日期：</span>
+                        <p class="detail-item-text">1992-03-07</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">身份证号：</span>
+                        <p class="detail-item-text">4205821992030778915</p>
+                    </div>
+				 </div>
+                 <div class="detail-module">
+                 	<div class="detail-item clearfix">
+                        <span class="detai-item-label">曾用名：</span>
+                        <p class="detail-item-text">王二</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">籍贯：</span>
+                        <p class="detail-item-text">浙江杭州</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">民族：</span>
+                        <p class="detail-item-text">汉</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">婚姻：</span>
+                        <p class="detail-item-text">未婚</p>
+                    </div>
+                    <div class="detail-item clearfix">
+                        <span class="detai-item-label">居住地：</span>
+                        <p class="detail-item-text">杭州市西湖区文三路90号东部软件园创新大厦</p>
+                    </div>
+                 </div>
+                 <div class="detail-module">
+                 	<div class="detail-item clearfix text-center">
+                        <div class="text-center">
+                        	<img src="images/relation01.png" width="104" height="114">
+                        </div>
+                        <h4>同户人员关系图</h4>
+                        <p><button class="btn btn-sm btn-handle">查看同户人员</button></p>
+                    </div>
+                    <div class="detail-item clearfix text-center">
+                        <div class="text-center">
+                        	<img src="images/relation02.png" width="104" height="114">
+                        </div>
+                        <h4>人员关联信息图</h4>
+                        <p><button class="btn btn-sm btn-handle">查看关联信息</button></p>
+                    </div>
+                 </div>
+             </div>
+             <!--end base infor-->
+          </div>
+       
+       </div>
+       
+       <div class="col-md-9">
+          <div class="main">
+              <!--tab content-->
+              <div class="tab-warp">
+                  <!-- Nav tabs -->
+                  <div class="tab-bar-warp">
+                      <ul class="nav nav-tabs" id="detail-tab-bar">
+                        <li><a href="#live" data-nav="live">居住信息</a></li>
+                        <li><a href="#flight" data-nav="flight">航班信息</a></li>
+                        <li><a href="#railway" data-nav="railway">铁路信息</a></li>
+                        <li><a href="#accommodation" data-nav="accommodation">住宿信息</a></li>
+                        <li><a href="#immigration" data-nav="immigration">进出港</a></li>
+                        <li><a href="#cars" data-nav="cars">车辆信息</a></li>
+                      </ul>
+                  </div>	
+                  <!-- Tab panes -->
+                  <div class="tab-content" id="detail-tab-con">
+                    <div class="tab-pane" id="live">
+                    	<!--tabCount-1-->
+                        	<div class="module-warp">
+                            	<div class="detail-operation-warp">
+                                	<div class="range-row" >
+                                        <ul class="range range-pills clearfix subnav">
+                                            <li class="pill"><a href="javascript:;" class="btn btn-sm btn-quick-default" data-type="changzhu">常住人口</a></li>
+                                            <li class="pill"><a href="javascript:;" class="btn btn-sm btn-quick-default" data-type="zanzhu">暂住人口</a></li>
+                                            <li class="pill"><a href="javascript:;" class="btn btn-sm btn-quick-default" data-type="zhusu">国内住宿</a></li>
+                                        </ul>	
+                                    </div>
+                                    <div class="range-row" >
+                                        <ul class="range range-pills clearfix">
+                                            <li class="pill">
+                                                <label class="label-control">入住时间:</label>
+                                                <div class="input-daterange input-group datepicker-box">
+                                                    <input type="text" class="input-sm form-control" name="start" />
+                                                    <span class="input-group-addon">至</span>
+                                                    <input type="text" class="input-sm form-control" name="end" />
+                                                </div>
+                                            </li>
+                                            <li class="pill">
+                                                <label class="label-control">离开时间:</label>
+                                                <div class="input-daterange input-group datepicker-box">
+                                                    <input type="text" class="input-sm form-control" name="start" />
+                                                    <span class="input-group-addon">至</span>
+                                                    <input type="text" class="input-sm form-control" name="end" />
+                                                </div>
+                                            </li>
+                                            <li class="pill">
+                                                <a href="javascript:void(0)" class="btn btn-sm btn-default">查找</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="detail-view-warp" id="live-count-box" data-box="live">
+                                	
+                                </div>
+                            </div>
+                        <!--end tabCount-1-->
+                    </div>
+                    <div class="tab-pane" id="flight">
+                    	<div class="module-warp">
+                        	<div class="detail-operation-warp">
+                            	<div class="range-row" >
+                                	<ul class="range range-pills clearfix subnav">
+                                        <li class="pill"><a href="javascript:;" class="btn btn-sm btn-quick-default" data-type="jinwaiflight">境外航班</a></li>
+                                        <li class="pill"><a href="javascript:;" class="btn btn-sm btn-quick-default" data-type="jinleiflight">境内航班</a></li>
+                                        <li class="pill"><a href="javascript:;" class="btn btn-sm btn-quick-default" data-type="minhang">民航订票</a></li>
+                                    </ul>	
+                                </div>
+                            </div>
+                            <div class="detail-view-warp" id="flight-content" data-box="flight">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="railway">铁路信息</div>
+                    <div class="tab-pane" id="accommodation">住宿信息</div>
+                    <div class="tab-pane" id="immigration">进出港</div>
+                    <div class="tab-pane" id="cars">车辆信息</div>
+                  </div>
+                
+              </div>
+              <!--end tab content-->		
+          </div>
+      </div>
+      
+    </div>  
+    
+  </div>
+</div>
+
+<!--footer-->
+<div class="footer">
+	<div class="container">
+    	<p class="about-us">研发单位：杭州创盾科技有限公司&nbsp;联系电话：0571-56077609</p>
+    </div>
+</div>
+<script src="js/lib/require.min.js" data-main="js/detail"></script>
+</body>
+</html>
